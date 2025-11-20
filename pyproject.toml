@@ -1,0 +1,14 @@
+[project]
+name = "preprocess"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0.0",
+    "chardet>=5.2.0",
+    "charset-normalizer>=3.4.4",
+    "ipykernel>=6.31.0",
+    "scikit-learn>=1.6.1",
+    "matplotlib>=3.9.4",
+]
